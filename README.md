@@ -4,50 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Screenshot App</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: 'Courier New', Courier, monospace;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .screenshot {
-      display: flex;
-      flex-direction: column;
-      margin: 20px 0;
-    }
-    .screenshot img {
-      width: 80%;
-      max-width: 600px;
-      border: 1px solid #ccc;
-      margin-bottom: 10px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  
+ 
 </head>
 <body>
 
