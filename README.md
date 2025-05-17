@@ -45,21 +45,7 @@
     <p>Download the latest build from the <a href="https://github.com/your-username/screenshot-app/releases" target="_blank">GitHub Releases</a> section. Available for both Windows (.exe) and macOS (.dmg).</p>
   </div>
 
-  <div class="section">
-    <h2>📸 Screenshots</h2>
-    <div class="screenshot">
-      <img src="screenshots/preview.png" alt="App Preview" />
-      <p><strong>In-app Screenshot Viewer</strong></p>
-    </div>
-    <div class="screenshot">
-      <img src="screenshots/tray-menu.png" alt="Tray Menu" />
-      <p><strong>System Tray Menu</strong></p>
-    </div>
-    <div class="screenshot">
-      <img src="screenshots/folder-structure.png" alt="Folder Structure" />
-      <p><strong>Auto-Organized Folder Structure</strong></p>
-    </div>
-  </div>
+  
 
   <div class="section">
     <h2>🧾 License</h2>
