@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Screenshot App</title>
-  
- 
-</head>
-<body>
+
 
   <h1>📸 Screenshot App</h1>
   <p>An elegant <strong>Electron-based desktop application</strong> for capturing screenshots at custom intervals, with smart organization, system tray control, and seamless user experience. Ideal for productivity, monitoring, and personal archiving.</p>
@@ -80,5 +71,4 @@
     <p>Issues, pull requests, and feature ideas are welcome! Feel free to contribute on <a href="https://github.com/your-username/screenshot-app" target="_blank">GitHub</a>.</p>
   </div>
 
-</body>
-</html>
+
